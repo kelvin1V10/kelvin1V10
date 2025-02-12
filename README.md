@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 💬 apenas eu<br>⚡ futuro full stack?
 
 
