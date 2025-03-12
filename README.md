@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 apenas eu<br>⚡ futuro full stack?
+💬 apenas eu<br>⚡ futuro Beck-and
 
 
 ## 🌐 Socials:
