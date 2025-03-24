@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 apenas eu<br>⚡ futuro Beck-and
+💬 apenas eu<br>⚡ Beck-and
 
 
 ## 🌐 Socials:
