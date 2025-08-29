@@ -7,11 +7,12 @@
     <p>Atualmente trabalho em projetos que envolvem sistemas web, jogos em Python e integrações com IA.</p>
   </div>
 
-  <div>
-    <img src="./computer.jpg" width="115" height="500" style="object-fit: cover; border-radius: 15px;"/>
+  <div style="margin-left: 40px;">
+    <img src="./computer.jpg" width="260" height="260" style="object-fit: cover; border-radius: 15px;"/>
   </div>
 
 </div>
+
 
 
 
