@@ -1,5 +1,6 @@
 # 💫 About Me:
-💬 Hello, My name is Kelvin<br>⚡ Back-End
+![Minha foto](./WhatsApp Image 2025-08-29 at 10.58.47.png)
+
 
 
 ## 🌐 Socials:
