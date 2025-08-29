@@ -1,5 +1,18 @@
 # 💫 About Me:
-<img src="./pc.jpeg" width="250"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1;">
+    <h2>👋 Olá, eu sou o Perninha!</h2>
+    <p>Sou desenvolvedor fullstack apaixonado por <b>Java</b>, <b>Spring Boot</b>, <b>Django</b> e <b>React</b>.</p>
+    <p>Atualmente trabalho em projetos que envolvem sistemas web, jogos em Python e integrações com IA.</p>
+  </div>
+
+  <div>
+    <img src="./pc.jpeg" width="220" height="220" style="object-fit: cover; border-radius: 15px;"/>
+  </div>
+
+</div>
+
 
 
 
