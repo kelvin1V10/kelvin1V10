@@ -1,7 +1,6 @@
 # 💫 About Me:
-<p align="center">
-  <img src="download.jfif" alt="gif legal" width="400px" />
-</p>
+<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pin.it/1RNSBAkdf)" width="300px" />
+
 
 
 ✨ Olá! Sou o Kelvin
