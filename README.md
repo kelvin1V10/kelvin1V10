@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Minha foto](./WhatsApp Image 2025-08-29 at 10.58.47.png)
+![Minha foto](./minha-foto.png)
 
 
 
