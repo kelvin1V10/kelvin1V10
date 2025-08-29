@@ -8,7 +8,7 @@
   </div>
 
   <div style="margin-left: 40px;">
-    <img src="./computer.jpg" width="260" height="260" style="object-fit: cover; border-radius: 15px;"/>
+    <img src="./computer.jpg" width="240" height="260" style="object-fit: cover; border-radius: 15px;"/>
   </div>
 
 </div>
