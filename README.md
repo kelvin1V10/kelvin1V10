@@ -1,5 +1,4 @@
 # 💫 About Me:
-![Minha foto](./pc.jpeg)
 <img src="./pc.jpeg" width="250"/>
 
 
