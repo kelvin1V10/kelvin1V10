@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="[[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pin.it/1RNSBAkdf)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F38421403061008437%2F&psig=AOvVaw2dZbXQ5-kSLesSmEk8lr8B&ust=1756564050951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi_9JOdsI8DFQAAAAAdAAAAABAq)" width="300px" />
+<img src="[[[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://pin.it/1RNSBAkdf)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F38421403061008437%2F&psig=AOvVaw2dZbXQ5-kSLesSmEk8lr8B&ust=1756564050951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi_9JOdsI8DFQAAAAAdAAAAABAq)](https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif)" width="300px" />
 
 
 
