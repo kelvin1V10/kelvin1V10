@@ -1,17 +1,6 @@
 # 💫 About Me:
-<div style="display: flex; align-items: center; justify-content: space-between;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Kelvin!;Fullstack+%7C+React+%2B+Django;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 
-  <div style="flex: 1;">
-    <h2>👋 Olá, eu sou o Perninha!</h2>
-    <p>Sou desenvolvedor fullstack apaixonado por <b>Java</b>, <b>Spring Boot</b>, <b>Django</b> e <b>React</b>.</p>
-    <p>Atualmente trabalho em projetos que envolvem sistemas web, jogos em Python e integrações com IA.</p>
-  </div>
-
-  <div style="margin-left: 40px;">
-    <img src="./computer.jpg" width="240" height="260" style="object-fit: cover; border-radius: 15px;"/>
-  </div>
-
-</div>
 
 
 
