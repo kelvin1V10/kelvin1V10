@@ -1,5 +1,8 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1200&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Kelvin!;Fullstack+%7C+React+%2B+Django;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/seu-gif.gif" alt="gif legal" width="400px" />
+</p>
+
 
 ✨ Olá! Sou o Kelvin
 🚀 Desenvolvedor Back End, sempre explorando novos desafios.
