@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Minha foto](./minha-foto.png)
+![Minha foto](./pc.jpeg)
 
 
 
