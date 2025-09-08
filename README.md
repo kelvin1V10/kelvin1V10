@@ -6,7 +6,7 @@
 
 
 
-✨ Olá! Sou o Kelvin
+✨ Olá! Sou o Kelvin.
 🚀 Desenvolvedor Back End, sempre explorando novos desafios.
 
 
