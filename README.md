@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="download (1).jfif" alt="gif legal" width="400px" />
+  <img src="download (4).jfif" alt="gif legal" width="400px" />
 </p>
 
 
